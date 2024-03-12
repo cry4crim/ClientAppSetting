@@ -12,7 +12,7 @@
     "FFlagDebugSkyGray": true,
     "FFlagFixGraphicsQuality": true,
     "FFlagGpuGeometryManager3": true,
-    "FFlagRenderGpuTextureCompressor": true 
+    "FFlagRenderGpuTextureCompressor": true,
     "FFlagCommitToGraphicsQualityFix": true,
     "FFlagEnableQuickGameLaunch": false,
     "DFFlagDebugRenderForceTechnologyVoxel": true,
