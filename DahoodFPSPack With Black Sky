@@ -7,7 +7,7 @@
     "FIntRenderGrassDetailStrands": 0,
     "FIntRenderGrassHeightScaler": 0,
     "FIntRenderShadowmapBias": 0,
-    "FIntCameraFarZPlane": 600
+    "FIntCameraFarZPlane": 600,
     "FFlagDebugDisplayFPS": false,
     "FFlagDebugSkyGray": true,
     "FFlagFixGraphicsQuality": true,
